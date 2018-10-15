@@ -1,1 +1,6 @@
-# Git.Training
+# Git.Training...
+hello
+world
+....
+w
+
